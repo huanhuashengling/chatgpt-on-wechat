@@ -1,8 +1,8 @@
 {
   "channel_type": "wx",
-  "model": "",
-  "open_ai_api_key": "",
-  "claude_api_key": "YOUR API KEY",
+  "model": "gpt-3.5-turbo",
+  "open_ai_api_key": "YOUR API KEY 1",
+  "claude_api_key": "YOUR API KEY 2",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
