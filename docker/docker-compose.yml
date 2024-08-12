@@ -7,7 +7,7 @@ services:
       - seccomp:unconfined
     environment:
       TZ: 'Asia/Shanghai'
-      OPEN_AI_API_KEY: 'YOUR API KEY'
+      OPEN_AI_API_KEY: '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'
       MODEL: 'gpt-3.5-turbo'
       PROXY: ''
       SINGLE_CHAT_PREFIX: '["bot", "@bot"]'
