@@ -1,7 +1,7 @@
 {
   "channel_type": "wx",
   "model": "gpt-3.5-turbo",
-  "open_ai_api_key": "YOUR API KEY 1",
+  "open_ai_api_key": "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",
   "claude_api_key": "YOUR API KEY 2",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
